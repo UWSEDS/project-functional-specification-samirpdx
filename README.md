@@ -11,3 +11,4 @@ The functional specification should include the following:
 
 ## Instructor grade
 
+5/5
